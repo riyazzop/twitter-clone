@@ -18,9 +18,9 @@ node_modules/
 # ============================
 # Next.js
 # ============================
-frontend/.next/
-frontend/out/
-frontend/.vercel
+.next/
+out/
+.vercel
 
 # Next.js build output
 *.tsbuildinfo
